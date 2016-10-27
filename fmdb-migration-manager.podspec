@@ -7,6 +7,7 @@ Pod::Spec.new do |s|
 	s.requires_arc  = false
 	s.source        = { :git => "https://github.com/viki-org/fmdb-migration-manager.git", :tag => s.version.to_s }
 	s.source_files  = "Classes/*.{h,m}"
-
+	s.author        = { "Viki" => "help@viki.com" }
+	
 	s.dependency 'FMDB', '~> 2.5'
 end
