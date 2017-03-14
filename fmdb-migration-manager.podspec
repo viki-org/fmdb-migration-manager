@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
 	s.version       = "0.1"
 	s.summary       = "SQLite Versioned Migrations for FMDB adapter for iPhone and Cocoa"
 	s.homepage      = "https://github.com/viki-org/fmdb-migration-manager"
+	s.license       = "Apache License, Version 2.0"
 	s.platform      = :ios, "5.0"
 	s.requires_arc  = false
 	s.source        = { :git => "https://github.com/viki-org/fmdb-migration-manager.git", :tag => s.version.to_s }
