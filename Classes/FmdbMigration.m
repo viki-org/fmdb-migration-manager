@@ -6,6 +6,8 @@
 //  Copyright 2008 Mocra. All rights reserved.
 //
 
+#import <FMDB/FMDB.h>
+
 #import "FmdbMigration.h"
 
 

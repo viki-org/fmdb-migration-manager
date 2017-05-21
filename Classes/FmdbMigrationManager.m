@@ -6,6 +6,8 @@
 //  Copyright 2008 Mocra and Dr Nic Williams. All rights reserved.
 //
 
+#import <FMDB/FMDB.h>
+
 #import "FmdbMigrationManager.h"
 #import "FmdbMigration.h"
 #import "FmdbMigrationColumn.h"

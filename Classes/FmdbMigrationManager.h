@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "FMDatabase.h"
+
+@class FMDatabase;
 
 @interface FmdbMigrationManager : NSObject {
 	FMDatabase *db_;

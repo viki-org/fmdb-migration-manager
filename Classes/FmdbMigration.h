@@ -6,8 +6,9 @@
 //  Copyright 2008 Mocra. All rights reserved.
 //
 
+@class FMDatabase;
+
 #import <Foundation/Foundation.h>
-#import "FMDatabase.h"
 #import "FmdbMigrationColumn.h"
 
 @interface FmdbMigration : NSObject {

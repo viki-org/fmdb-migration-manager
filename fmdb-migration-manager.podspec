@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name          = "fmdb-migration-manager"
-	s.version       = "0.1"
+	s.version       = "0.2"
 	s.summary       = "SQLite Versioned Migrations for FMDB adapter for iPhone and Cocoa"
 	s.homepage      = "https://github.com/viki-org/fmdb-migration-manager"
 	s.license       = "Apache License, Version 2.0"
